@@ -1,0 +1,15 @@
+.jumbotron{
+    background-color: #FAEBD7;
+    
+    color: black;
+}
+.collapse li a{
+    color: black;
+}
+.navbar{
+}
+.card-img-top {
+    width: 100%;
+    height: 15rem;
+    object-fit: cover;
+}

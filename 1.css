@@ -1,0 +1,24 @@
+.hello{
+  position: relative;   
+}
+.card{
+    position: absolute;
+    width: 20rem;
+    right: 1%;
+    top: 2%;
+}
+@media screen and (max-width:765px) {
+    .card{
+        position: relative;
+    }
+    
+}
+@media screen and (max-width:323px) {
+    .card{
+        width: 98%;
+    }
+    body{
+        font-size: 0.8rem;
+    }
+    
+}
